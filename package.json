@@ -1,0 +1,25 @@
+{
+  "name": "file-tag",
+  "types": ["module"],
+  "version": "1.4",
+  "homepage": "http://github.com/shinken-monitoring/mod-file-tag",
+  "author": "Jean Gabès",
+  "description": "Tagging host configuration based on a flat file presence",
+  "contributors": [
+    {
+      "name": "Jean Gabès",
+      "email": "naparuba@gmail.com"
+    }
+  ],
+  "repository": "https://github.com/shinken-monitoring/mod-file-tag",
+  "keywords": [
+    "module",
+    "arbiter",
+    "configuration",
+    "tag"
+  ],
+  "dependencies": {
+    "shinken": ">=1.4"
+  },
+  "license": "AGPL"
+}
